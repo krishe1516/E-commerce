@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-size: 30px;
+    font-family: sans-serif;
+     font-weight: 500;
+    
+}
+ 
+li a.nav-link{
+    color: rgb(27, 220, 27);
+    
+    font-size: 17px;
+}
+.input{
+    width: 80%;
+}

@@ -1,0 +1,23 @@
+{
+  "seller": [
+    {
+      "id": 1,
+      "Name": "Sheetal Shinde",
+      "Email": "sheetalshinde@gmail.com",
+      "Password": "sheetal@123"
+    },
+   
+    {
+      "id": 2,
+      "Name": "Vishakha Mhasaye",
+      "Email": "vishakha@gmail.com",
+      "Password": "Vishakha@1234"
+    },
+    {
+      "id": 3,
+      "Name": "Pooja Kadam",
+      "Email": "pooja@gmail.com",
+      "Password": "pooja12345"
+    }
+  ]
+}

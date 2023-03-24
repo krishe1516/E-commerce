@@ -1,0 +1,16 @@
+form{
+    width: 400px;
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+span .ms-auto{
+    margin-left: 50px;
+}
+button{
+    margin-top: 20px;
+}
